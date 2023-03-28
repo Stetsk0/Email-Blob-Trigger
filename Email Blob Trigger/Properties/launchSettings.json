@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Email_Blob_Trigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7041",
+      "launchBrowser": false
+    }
+  }
+}
